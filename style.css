@@ -1,0 +1,27 @@
+p {
+ font-size: 12px;
+}
+
+.contenedor {
+display: flex;
+judtify-content: space-between;
+flex-wrap: wrap;
+}
+
+.seccion {
+border: solid 2px cyan;
+border-radius: 10px;
+padding: 10px;
+margin: 10px;
+border: solid 2px darkBlue;
+width: 435px;
+}
+
+#foto {
+transform: rotate(-90deg);
+width: 120px;
+height: 100px;
+border: solid 5px #000;
+border-radius: 100%;
+margin-top: 3px;
+}
