@@ -18,9 +18,8 @@ width: 435px;
 }
 
 #foto {
-transform: rotate(-90deg);
 width: 120px;
-height: 100px;
+height: 120px;
 border: solid 5px #000;
 border-radius: 100%;
 margin-top: 3px;
