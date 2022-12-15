@@ -9,7 +9,6 @@ flex-wrap: wrap;
 }
 
 .seccion {
-border: solid 2px cyan;
 border-radius: 10px;
 padding: 10px;
 margin: 10px;
@@ -17,10 +16,44 @@ border: solid 2px darkBlue;
 width: 435px;
 }
 
+.seccion:hover {
+background-color: #A9F5E1;
+}
+
 #foto {
-width: 150px;
-height: 150px;
-border: solid 5px #000;
+width: 120px;
+height: 120px;
+border: solid 5px darkBlue;
 border-radius: 100%;
 margin-top: 3px;
+}
+
+#foto:hover {
+width: 200px;
+height: 200px;
+border-radius: 100%;
+border: solid 5px darkBlue;
+margin-top: 3px;
+}
+
+.contacto {
+margin: 12px;
+}
+
+.medio {
+font-size: 15px;
+width: 350px;
+background-color: #A9F5BC;
+border-radius: 10px;
+padding: 12px;
+}
+
+.medio:hover {
+font-size: 18px;
+background-color: #A9E2F3;
+padding: 17px;
+}
+
+a {
+text-decoration: none;
 }
