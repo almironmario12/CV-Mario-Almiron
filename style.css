@@ -41,7 +41,7 @@ margin: 12px;
 }
 
 .medio {
-font-size: 15px;
+font-size: 13px;
 width: 92%;
 background-color: #A9F5BC;
 border-radius: 10px;
@@ -51,7 +51,7 @@ padding: 12px;
 .medio:hover {
 font-size: 18px;
 background-color: #A9E2F3;
-padding: 17px;
+padding: 15px;
 }
 
 a {
